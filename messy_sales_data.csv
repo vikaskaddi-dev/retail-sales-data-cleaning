@@ -1,0 +1,516 @@
+OrderID,OrderDate,Product,Category,City,Quantity,UnitPrice,Revenue,PaymentMode
+1000,04-02-2025,Sneakers, Footwear,mumbai,5.0,2749.11,13745.55,UPI
+1001,2025.09.10,t-shirt ,apparel,BENGALURU,6.0,1130.07,N/A,
+1002,27-07-2025,Sneakers,apparel, Pune,8.0,1083.34,8666.72,Credit Card
+1003,11/06/2025,JACKET ,Apparel,Bengaluru,1.0,3432.75,3432.75,
+1004,08/06/2025,Jacket,APPAREL,BENGALURU,10.0,,"₹37,828.90",UPI
+1005,03-05-2025, Cap ,Apparel,Bengaluru,10.0,4641.47,"₹46,414.70",
+1006,12/06/2025,Cap,Apparel,Dharwad,,2773.34,11093.36,Debit Card
+1007,05/18/2025, Jeans,Apparel, Pune,4.0,2241.52,8966.08,UPI
+1008,10/04/2025,T Shirt, Footwear, Pune,4.0,450.84,1803.36,Debit Card
+1009,21/05/2025,T-Shirt,apparel, Pune,5.0,803.31,4016.55,Debit Card
+1010,27-03-2025,JEANS,footwear,mumbai,9.0,4145.61,37310.49,Credit Card
+1011,06/19/2025,T Shirt,Footwear,Pune,8.0,1566.9,"₹12,535.20",
+1012,22/03/2025,sneakers, Footwear,Pune,1.0,2550.21,2550.21,Credit Card
+1013,2025.04.18, Cap ,apparel,dharwad ,4.0,1667.98,"₹6,671.92",UPI
+1014,2025.08.22,JACKET ,apparel,Pune,5.0,2856.39,14281.95,Credit Card
+1015,18/02/2025,JEANS,Apparel,Bengaluru,1.0,2899.79,2899.79,
+1016,07/03/2025,Sneakers,apparel,mumbai,2.0,761.68,1523.36,Credit Card
+1017,11/17/2025,Jeans,Footwear,Bengaluru,5.0,2909.1,14545.5,UPI
+1018,28/08/2025, Cap ,APPAREL,Dharwad,7.0,4480.0,31360.0,Credit Card
+1019,06-08-2025,JACKET ,apparel,Pune,2.0,1515.46,N/A,UPI
+1020,02/18/2025, Cap ,APPAREL,Bengaluru,10.0,771.47,7714.7,
+1021,12/06/2025,T Shirt,Footwear,Mumbai,1.0,3328.5,3328.5,Cash
+1022,07/09/2025,Cap,APPAREL,mumbai,4.0,4084.57,16338.28,Cash
+1023,15-08-2025,Jeans,apparel,Dharwad,1.0,4757.88,4757.88,
+1024,17/04/2025,Sneakers,footwear, Pune,,3302.07,3302.07,Credit Card
+1025,2025.12.09,jacket, Footwear,bengaluru,3.0,3211.75,9635.25,
+1026,03/16/2025,Jacket,footwear,BENGALURU,3.0,473.9,1421.7,Debit Card
+1027,11/07/2025,t-shirt , Footwear,Pune,7.0,2747.73,19234.11,Debit Card
+1028,10/27/2025,T Shirt,Footwear,Dharwad,4.0,1038.58,4154.32,Credit Card
+1029,10/26/2025,,Footwear,BENGALURU,8.0,4468.71,"₹35,749.68",UPI
+1030,23-01-2025,jacket,APPAREL, Pune,1.0,4740.74,4740.74,UPI
+1031,2025.12.28,Sneaker,Footwear,Bengaluru,5.0,4896.75,24483.75,
+1032,01/25/2025, Jeans,APPAREL,BENGALURU,6.0,2234.05,13404.3,Credit Card
+1033,04/07/2025,Jeans,Apparel,Mumbai,8.0,4524.9,36199.2,Debit Card
+1034,06-05-2025, Cap ,Apparel,mumbai,2.0,2491.42,4982.84,Debit Card
+1035,27/11/2025,JEANS,footwear,Bengaluru,-1.0,4131.29,-4131.29,Debit Card
+1036,14/04/2025,Sneakers,Apparel,Mumbai,3.0,4553.94,"₹13,661.82",Debit Card
+1037,09-04-2025,JEANS,APPAREL, Pune,5.0,3581.86,17909.3,Debit Card
+1038,2025.11.14,Cap,Footwear,BENGALURU,9.0,4284.65,38561.85,
+1039,03-01-2025,cap,apparel,bengaluru,10.0,625.91,6259.1,Debit Card
+1040,2025.11.16,Sneaker,APPAREL,BENGALURU,5.0,1534.39,7671.95,Debit Card
+1041,2025.11.20,sneakers, Footwear,Mumbai,9.0,4106.07,36954.63,
+1042,30-08-2025,Sneakers,apparel,Mumbai,9.0,607.4,5466.6,UPI
+1043,15/02/2025, Cap ,Footwear, Pune,5.0,2727.15,13635.75,UPI
+1044,13-06-2025,jacket,Apparel,dharwad ,4.0,1360.53,5442.12,Debit Card
+1045,12/05/2025,Sneaker,Apparel,Dharwad,6.0,2694.66,16167.96,Cash
+1046,24/09/2025,T-Shirt,APPAREL,Mumbai,3.0,2504.66,7513.98,Cash
+1047,27-12-2025,Jacket,apparel,Mumbai,7.0,3634.54,25441.78,
+1048,02/17/2025,, Footwear,Pune,6.0,2817.56,16905.36,Cash
+1049,2025.05.29,JACKET ,Apparel,BENGALURU,2.0,3409.42,6818.84,
+1050,04/03/2025, Cap ,Footwear,Dharwad,8.0,2397.77,19182.16,UPI
+1051,18-08-2025,Jeans,Apparel,Dharwad,8.0,4274.08,34192.64,UPI
+1052,10-01-2025,T-Shirt,Apparel,Pune,6.0,4207.83,25246.98,Credit Card
+1053,04/04/2025, Jeans,Footwear,Pune,3.0,3379.89,10139.67,
+1054,04-01-2025,sneakers,footwear,BENGALURU,6.0,1968.77,11812.62,
+1055,2025.09.13,jacket,Footwear,Dharwad,9.0,1886.83,16981.47,UPI
+1056,09/01/2025,T Shirt, Footwear,,1.0,1064.66,1064.66,UPI
+1057,10-08-2025,Jeans,apparel,dharwad ,,1432.42,2864.84,Cash
+1058,05/09/2025,sneakers, Footwear,Dharwad,5.0,2730.28,13651.4,UPI
+1059,11-08-2025,Jeans, Footwear,Dharwad,4.0,4088.19,16352.76,
+1060,10/07/2025,cap,Apparel,mumbai,,3491.71,"₹31,425.39",UPI
+1061,13/01/2025,Cap,apparel,Pune,5.0,,"₹6,529.55",Debit Card
+1062,05-06-2025, Cap ,apparel, Pune,4.0,2071.69,N/A,UPI
+1063,26-06-2025, Cap ,Apparel,Mumbai,7.0,4015.39,28107.73,Cash
+1064,13/12/2025,Jacket, Footwear,bengaluru,4.0,1468.19,5872.76,
+1065,23/09/2025, Cap ,apparel, Pune,10.0,3409.05,34090.5,
+1066,08/11/2025,Sneakers,Footwear,Mumbai,1.0,707.16,707.16,
+1067,2025.06.19, Cap ,Footwear,,7.0,720.21,5041.47,Cash
+1068,28-03-2025,tshirt,Apparel,BENGALURU,7.0,1901.21,13308.47,UPI
+1069,30-07-2025,Cap,APPAREL,Bengaluru,-3.0,2226.17,-6678.51,Debit Card
+1070,05/01/2025,Sneaker,apparel,dharwad ,2.0,3495.51,6991.02,
+1071,11/06/2025,JACKET ,Apparel,Bengaluru,1.0,3432.75,3432.75,
+1072,17/05/2025,JACKET , Footwear,mumbai,3.0,1650.86,4952.58,Debit Card
+1073,12/01/2025,Jeans,Apparel,Pune,5.0,3660.42,18302.1,UPI
+1074,2025.01.22,Cap,footwear,Pune,5.0,1288.96,6444.8,Cash
+1075,21/10/2025,cap,apparel,mumbai,9.0,2835.48,25519.32,UPI
+1076,12/14/2025,Sneaker,footwear,dharwad ,8.0,2306.25,"₹18,450.00",
+1077,2025.06.01,Jacket,apparel,Dharwad,9.0,4358.53,"₹39,226.77",
+1078,22/11/2025,tshirt,APPAREL,Pune,6.0,1788.33,10729.98,Cash
+1079,27/04/2025,Cap,apparel,bengaluru,5.0,3607.98,18039.9,UPI
+1080,2025.03.20,Cap,apparel,bengaluru,5.0,979.03,"₹4,895.15",Credit Card
+1081,02/12/2025,T Shirt,Apparel,bengaluru,7.0,2508.69,17560.83,UPI
+1082,09/09/2025,tshirt,apparel,Dharwad,3.0,1909.55,5728.65,UPI
+1083,2025.12.20,Cap,footwear,Mumbai,7.0,2763.6,19345.2,UPI
+1084,07-08-2025,Jacket,footwear,Mumbai,6.0,1178.61,7071.66,Cash
+1085,2025.12.14,Sneaker,APPAREL,dharwad ,3.0,3118.6,9355.8,Debit Card
+1086,08/09/2025, Cap ,footwear,mumbai,10.0,4479.3,44793.0,Debit Card
+1087,2025.11.28,JACKET ,Apparel,dharwad ,4.0,3763.45,15053.8,UPI
+1088,07/31/2025,Sneakers, Footwear,mumbai,4.0,1418.39,5673.56,Credit Card
+1089,2025.06.09,Sneakers,APPAREL,Pune,7.0,1453.93,10177.51,Debit Card
+1090,08/02/2025,JACKET ,Apparel,BENGALURU,,1251.75,5007.0,Debit Card
+1091,29/08/2025,sneakers, Footwear,,7.0,718.65,5030.55,
+1092,08-07-2025,JEANS,Footwear,mumbai,2.0,3371.26,6742.52,Cash
+1093,13-10-2025,JACKET ,footwear,Bengaluru,8.0,2334.22,"₹18,673.76",
+1094,2025.01.05,,Apparel,Mumbai,8.0,4949.76,39598.08,Credit Card
+1095,12/11/2025,JACKET , Footwear,Dharwad,9.0,3592.85,32335.65,Credit Card
+1096,2025.01.09,Sneaker,footwear,BENGALURU,6.0,2342.4,14054.4,
+1097,10/11/2025,T Shirt,apparel,Dharwad,9.0,3001.0,27009.0,Debit Card
+1098,03/09/2025,Jeans,apparel,Pune,10.0,3211.64,32116.4,Cash
+1099,14/06/2025,jacket, Footwear,Dharwad,8.0,343.42,2747.36,
+1100,2025.10.28,Cap,apparel, Pune,3.0,483.2,1449.6,Debit Card
+1101,08/28/2025,sneakers,apparel,mumbai,5.0,2609.61,13048.05,Debit Card
+1102,01-07-2025,tshirt,footwear,bengaluru,8.0,2126.53,17012.24,
+1103,2025.01.31, Jeans,footwear,Dharwad,8.0,4810.21,38481.68,Credit Card
+1104,12/02/2025,T Shirt,Footwear,bengaluru,9.0,2040.68,18366.12,Debit Card
+1105,2025.10.11,t-shirt ,footwear, Pune,5.0,1628.3,8141.5,Debit Card
+1106,26/02/2025,JACKET ,APPAREL,dharwad ,7.0,3448.63,24140.41,
+1107,2025.10.29,Jeans,apparel,Dharwad,7.0,4033.7,28235.9,Debit Card
+1108,2025.05.11,sneakers,apparel,dharwad ,9.0,3148.42,28335.78,
+1109,09-11-2025,JEANS,footwear,mumbai,7.0,1526.21,10683.47,Cash
+1110,15-03-2025,JEANS, Footwear,Pune,1.0,4731.89,4731.89,Cash
+1111,30/04/2025,,footwear,bengaluru,5.0,3668.59,18342.95,UPI
+1112,06/30/2025,T-Shirt,footwear,BENGALURU,1.0,3344.46,3344.46,
+1113,11/12/2025,Cap,Footwear,Mumbai,8.0,1326.26,10610.08,UPI
+1114,04/26/2025,sneakers,Footwear, Pune,6.0,1472.17,"₹8,833.02",Debit Card
+1115,19/10/2025,cap,APPAREL,Dharwad,6.0,1091.61,6549.66,UPI
+1116,29/09/2025,Sneakers,Footwear, Pune,7.0,3275.23,22926.61,UPI
+1117,2025.09.07, Jeans, Footwear,bengaluru,5.0,2926.45,14632.25,UPI
+1118,14-01-2025,Jeans, Footwear,,2.0,1964.2,3928.4,Credit Card
+1119,30/01/2025,Sneaker, Footwear,BENGALURU,7.0,3575.88,25031.16,
+1120,2025.07.15,sneakers, Footwear,Mumbai,2.0,4546.86,9093.72,Debit Card
+1121,2025.05.24,jacket,APPAREL,Mumbai,,4471.67,40245.03,UPI
+1122,04/12/2025,Sneakers, Footwear,mumbai,1.0,2882.03,"₹2,882.03",UPI
+1123,2025.01.30,cap,Footwear,Pune,7.0,300.91,2106.37,Debit Card
+1124,27/05/2025,cap, Footwear,mumbai,,2711.26,2711.26,Credit Card
+1125,01-08-2025,tshirt,footwear,BENGALURU,9.0,4508.22,40573.98,Debit Card
+1126,26-08-2025,t-shirt ,footwear,bengaluru,3.0,3062.29,9186.87,Cash
+1127,2025.08.04, Jeans,apparel,bengaluru,5.0,3574.33,"₹17,871.65",UPI
+1128,2025.11.16,Sneaker,APPAREL,BENGALURU,5.0,1534.39,7671.95,Debit Card
+1129,2025.05.07,cap,apparel,BENGALURU,4.0,4539.86,18159.44,Debit Card
+1130,28-02-2025,Jacket,apparel,mumbai,4.0,3225.38,12901.52,
+1131,03/02/2025,cap,apparel,Pune,8.0,3679.59,29436.72,Debit Card
+1132,29/06/2025,sneakers,APPAREL,bengaluru,8.0,2748.24,21985.92,Cash
+1133,09-03-2025,JACKET ,Footwear,Dharwad,1.0,2485.69,2485.69,
+1134,25-12-2025, Jeans,APPAREL,Mumbai,1.0,4557.39,4557.39,
+1135,03/01/2025,JEANS, Footwear,BENGALURU,8.0,2577.15,"₹20,617.20",Cash
+1136,2025.08.12,Cap,apparel,Pune,10.0,4231.48,42314.8,Credit Card
+1137,23/06/2025,JEANS,footwear,Mumbai,6.0,,13024.38,Cash
+1138,05-12-2025,Jeans,apparel,BENGALURU,1.0,3545.53,3545.53,Debit Card
+1139,09/06/2025,jacket,APPAREL,bengaluru,6.0,4272.47,25634.82,Debit Card
+1140,07-10-2025,Jacket,APPAREL,Pune,7.0,1540.93,10786.51,UPI
+1141,2025.12.04,Sneakers,footwear,bengaluru,4.0,1408.04,N/A,Debit Card
+1142,04/12/2025,JACKET ,footwear,Mumbai,4.0,3168.8,12675.2,Cash
+1143,03/19/2025,Sneakers,apparel,Dharwad,3.0,1263.47,3790.41,UPI
+1144,11/09/2025,JEANS,Footwear,,2.0,2337.44,4674.88,Credit Card
+1145,02/08/2025,T-Shirt, Footwear,Dharwad,7.0,913.33,6393.31,Cash
+1146,31-05-2025,tshirt,apparel,Bengaluru,4.0,3090.54,12362.16,Debit Card
+1147,23/08/2025,jacket,footwear,Mumbai,4.0,4250.75,17003.0,Debit Card
+1148,10/11/2025,Jacket,footwear, Pune,5.0,1203.81,6019.05,Credit Card
+1149,11/03/2025,cap,APPAREL,Bengaluru,10.0,3585.61,"₹35,856.10",
+1150,2025.03.30,T-Shirt,APPAREL,Dharwad,4.0,1291.8,"₹5,167.20",Credit Card
+1151,04/29/2025, Cap ,APPAREL, Pune,5.0,4300.4,21502.0,UPI
+1152,17/01/2025,Jeans,footwear, Pune,10.0,585.5,5855.0,UPI
+1153,10-01-2025,T-Shirt,Apparel,Pune,6.0,4207.83,25246.98,Credit Card
+1154,2025.02.14, Cap ,APPAREL,Dharwad,7.0,,18355.68,Cash
+1155,05-11-2025,JEANS,apparel,dharwad ,3.0,2688.21,8064.63,Credit Card
+1156,29-01-2025,sneakers, Footwear,mumbai,2.0,4626.62,9253.24,
+1157,26/09/2025,T-Shirt,APPAREL,Dharwad,10.0,3295.43,32954.3,Credit Card
+1158,2025.06.22,Sneakers,Apparel,dharwad ,8.0,1218.08,"₹9,744.64",Cash
+1159,2025.10.01,sneakers, Footwear, Pune,3.0,3130.86,9392.58,UPI
+1160,17/10/2025,cap, Footwear, Pune,4.0,3452.6,13810.4,Credit Card
+1161,03/13/2025,Jeans,APPAREL,Pune,9.0,2018.53,18166.77,Cash
+1162,06/07/2025,Cap,footwear,Pune,4.0,1590.81,6363.24,
+1163,2025.07.02,JEANS,footwear,dharwad ,,834.59,5007.54,
+1164,10/06/2025, Jeans, Footwear, Pune,4.0,1132.9,4531.6,Credit Card
+1165,2025.10.19,Sneaker, Footwear,BENGALURU,2.0,1792.59,3585.18,
+1166,2025.10.05, Jeans,footwear,Bengaluru,5.0,519.81,2599.05,Credit Card
+1167,18/08/2025,JACKET ,Apparel,Pune,7.0,4456.39,31194.73,
+1168,2025.12.07,t-shirt ,APPAREL,Pune,8.0,2849.85,22798.8,Cash
+1169,03-04-2025,tshirt,apparel,mumbai,6.0,4802.65,28815.9,UPI
+1170,01-03-2025,Cap, Footwear,BENGALURU,9.0,1355.09,12195.81,Debit Card
+1171,19/12/2025,cap,Footwear,,2.0,4631.8,9263.6,UPI
+1172,05/15/2025,cap,APPAREL,mumbai,5.0,1202.64,6013.2,UPI
+1173,01/20/2025,cap,Footwear, Pune,3.0,4439.06,13317.18,Cash
+1174,06-03-2025,Sneaker,footwear,bengaluru,9.0,1787.31,16085.79,UPI
+1175,10/16/2025,Cap,apparel,BENGALURU,5.0,3783.72,18918.6,UPI
+1176,02/23/2025,Sneaker,Footwear,bengaluru,8.0,1396.09,11168.72,
+1177,01-07-2025,tshirt,footwear,bengaluru,8.0,2126.53,17012.24,
+1178,2025.05.05,JEANS,Footwear,BENGALURU,10.0,4347.98,43479.8,Cash
+1179,2025.04.28,t-shirt , Footwear,Dharwad,3.0,2391.02,"₹7,173.06",Credit Card
+1180,2025.02.20,Jacket,Apparel,Mumbai,10.0,550.96,"₹5,509.60",Credit Card
+1181,03/08/2025,JACKET ,APPAREL,bengaluru,7.0,1982.95,13880.65,Credit Card
+1182,08/03/2025,T Shirt,footwear,BENGALURU,1.0,2060.75,"₹2,060.75",UPI
+1183,10/03/2025,T-Shirt,APPAREL,mumbai,7.0,3449.19,24144.33,UPI
+1184,09/22/2025,cap,Footwear,Pune,6.0,4353.11,26118.66,Credit Card
+1185,10/09/2025,Jacket,footwear, Pune,6.0,1301.76,7810.56,Debit Card
+1186,02-04-2025,T Shirt,Footwear,bengaluru,3.0,3204.19,9612.57,UPI
+1187,28-06-2025, Cap ,Apparel,BENGALURU,9.0,4988.2,44893.8,Cash
+1188,2025.07.19, Cap ,apparel, Pune,10.0,1638.13,N/A,
+1189,2025.02.13,Sneaker,footwear, Pune,8.0,2345.79,18766.32,Debit Card
+1190,2025.03.29,Cap,apparel, Pune,2.0,3410.11,6820.22,Credit Card
+1191,09-01-2025,T Shirt,footwear,Dharwad,9.0,1017.34,9156.06,Debit Card
+1192,15/10/2025,jacket,footwear,mumbai,1.0,2806.3,"₹2,806.30",UPI
+1193,2025.07.14,JACKET ,apparel,mumbai,1.0,2309.66,2309.66,Credit Card
+1194,18-12-2025, Jeans,footwear,mumbai,2.0,4025.65,8051.3,Credit Card
+1195,29/12/2025,Sneakers,footwear,Mumbai,3.0,2145.38,"₹6,436.14",Debit Card
+1196,08/15/2025, Jeans,Footwear,mumbai,9.0,4664.57,41981.13,Cash
+1197,04/25/2025,tshirt, Footwear,Dharwad,10.0,2358.41,"₹23,584.10",Cash
+1198,08/09/2025,Sneakers,Apparel,Pune,5.0,4467.16,22335.8,Credit Card
+1199,16-05-2025,JACKET ,footwear,,8.0,4687.39,37499.12,Debit Card
+1200,16-07-2025,t-shirt ,Apparel,Dharwad,3.0,1375.05,"₹4,125.15",Cash
+1201,07/19/2025,Jeans,APPAREL,bengaluru,10.0,,19512.2,UPI
+1202,10/30/2025, Cap ,footwear, Pune,2.0,2110.67,"₹4,221.34",Debit Card
+1203,06-06-2025,Jacket, Footwear,Pune,6.0,4571.27,27427.62,UPI
+1204,01-12-2025,sneakers,APPAREL,bengaluru,5.0,2641.46,13207.3,UPI
+1205,12-09-2025, Jeans,Apparel,mumbai,,781.73,4690.38,Cash
+1206,12/28/2025,jacket,Apparel,Dharwad,1.0,4633.67,4633.67,Cash
+1207,2025.03.06,tshirt,APPAREL,dharwad ,7.0,4857.8,"₹34,004.60",Credit Card
+1208,08/25/2025,Jeans,footwear,mumbai,4.0,2288.86,9155.44,Cash
+1209,04/06/2025,,APPAREL,Pune,9.0,3771.93,"₹33,947.37",
+1210,01/04/2025,Jacket,APPAREL,bengaluru,8.0,4350.92,34807.36,Debit Card
+1211,07/05/2025,cap,footwear,Pune,8.0,2636.64,"₹21,093.12",UPI
+1212,20-08-2025,Jeans,Footwear,bengaluru,1.0,2882.41,2882.41,Cash
+1213,20/05/2025,tshirt,Footwear,BENGALURU,7.0,,7876.47,Cash
+1214,11/01/2025,Cap,apparel, Pune,3.0,4749.19,14247.57,UPI
+1215,12/03/2025,JACKET ,Footwear,dharwad ,4.0,456.5,1826.0,Cash
+1216,25/11/2025,Sneaker, Footwear,dharwad ,8.0,4756.88,38055.04,
+1217,2025.03.31,t-shirt ,Apparel,dharwad ,7.0,2085.97,14601.79,Credit Card
+1218,04/11/2025, Jeans, Footwear,Pune,7.0,1148.98,8042.86,Credit Card
+1219,2025.03.22,T Shirt,Footwear, Pune,10.0,892.1,8921.0,Cash
+1220,07/02/2025,JACKET ,apparel, Pune,1.0,3442.71,3442.71,Credit Card
+1221,20/09/2025,sneakers,Footwear,BENGALURU,3.0,2180.18,6540.54,Credit Card
+1222,03/23/2025,jacket,Footwear,Pune,10.0,,"₹40,265.50",UPI
+1223,01/07/2025,Jeans, Footwear,dharwad ,9.0,3851.18,34660.62,
+1224,01/14/2025,jacket,Footwear,BENGALURU,6.0,812.56,4875.36,Cash
+1225,12-01-2025, Cap ,Apparel,Dharwad,4.0,332.8,1331.2,Credit Card
+1226,18/07/2025,tshirt,apparel,bengaluru,8.0,1300.36,10402.88,Credit Card
+1227,01-01-2025,T-Shirt,footwear,dharwad ,5.0,954.83,"₹4,774.15",Credit Card
+1228,11/07/2025,tshirt,footwear,,9.0,456.96,4112.64,Credit Card
+1229,03/18/2025,JACKET , Footwear,Bengaluru,4.0,4759.35,19037.4,Credit Card
+1230,09/30/2025,, Footwear,BENGALURU,9.0,2899.16,26092.44,UPI
+1231,25/10/2025,JEANS,apparel, Pune,7.0,,23587.76,Debit Card
+1232,12/30/2025, Jeans,apparel,BENGALURU,3.0,1767.2,5301.6,
+1233,11/23/2025, Cap , Footwear,mumbai,8.0,1163.27,"₹9,306.16",Credit Card
+1234,17/06/2025,JACKET ,Apparel,mumbai,4.0,4722.37,18889.48,UPI
+1235,13-11-2025,JEANS,Apparel,bengaluru,4.0,4223.22,16892.88,Debit Card
+1236,21/02/2025,cap,APPAREL,dharwad ,10.0,3205.57,32055.7,Cash
+1237,26-08-2025,T-Shirt, Footwear, Pune,7.0,2893.65,20255.55,Debit Card
+1238,07-07-2025,Cap, Footwear,Pune,10.0,3942.03,39420.3,
+1239,27-07-2025,T-Shirt,footwear,dharwad ,4.0,,8038.76,UPI
+1240,28-01-2025, Cap ,footwear, Pune,2.0,3008.96,6017.92,UPI
+1241,20/04/2025,Sneakers, Footwear,Pune,1.0,1890.17,1890.17,UPI
+1242,14-09-2025,JEANS,footwear, Pune,1.0,3716.69,"₹3,716.69",UPI
+1243,2025.12.26,Sneakers,Apparel,Bengaluru,8.0,338.17,2705.36,Cash
+1244,29/04/2025,tshirt,footwear,BENGALURU,3.0,2620.9,7862.7,
+1245,05/02/2025,Sneakers,footwear,BENGALURU,9.0,3236.61,29129.49,UPI
+1246,2025.12.25,sneakers,footwear,Pune,8.0,1281.34,10250.72,
+1247,31-05-2025,jacket,Apparel,dharwad ,7.0,1462.31,10236.17,
+1248,27/06/2025,T Shirt,APPAREL,dharwad ,4.0,2737.35,10949.4,Debit Card
+1249,05/18/2025,Jeans,apparel,Bengaluru,9.0,2940.48,26464.32,
+1250,18/11/2025,JACKET ,APPAREL,mumbai,3.0,4291.13,12873.39,
+1251,20/12/2025,t-shirt ,APPAREL,dharwad ,8.0,3002.7,"₹24,021.60",UPI
+1252,16/04/2025,Cap,Apparel,,-2.0,1312.58,"₹-2,625.16",UPI
+1253,22-07-2025,cap,Apparel,bengaluru,6.0,1111.02,6666.12,Credit Card
+1254,11/15/2025,JEANS,Footwear,bengaluru,2.0,2461.33,N/A,Cash
+1255,2025.10.24,Jacket,Footwear,Pune,2.0,1398.89,2797.78,Debit Card
+1256,09/16/2025,T-Shirt,APPAREL,dharwad ,8.0,1237.82,9902.56,Cash
+1257,27-09-2025,T Shirt,Apparel,BENGALURU,6.0,4831.84,28991.04,Debit Card
+1258,2025.12.22,JACKET ,APPAREL,Bengaluru,10.0,3456.21,34562.1,Cash
+1259,08/12/2025,T-Shirt,apparel,Dharwad,4.0,392.66,1570.64,UPI
+1260,28-07-2025,Sneakers,footwear,Bengaluru,7.0,1802.7,12618.9,UPI
+1261,20-10-2025,sneakers,APPAREL,BENGALURU,8.0,3940.4,31523.2,
+1262,08/05/2025, Jeans,APPAREL, Pune,6.0,1621.37,9728.22,Credit Card
+1263,11/06/2025,tshirt,APPAREL,bengaluru,8.0,2345.27,"₹18,762.16",
+1264,24/09/2025,Sneakers,Footwear,Pune,9.0,3322.59,29903.31,Credit Card
+1265,17/06/2025, Cap ,APPAREL,Bengaluru,6.0,2353.31,14119.86,Cash
+1266,26-07-2025,T Shirt,Footwear,Pune,7.0,599.2,4194.4,
+1267,2025.06.16,T Shirt,Footwear,BENGALURU,,2962.47,8887.41,Credit Card
+1268,14/03/2025,Jacket, Footwear,Dharwad,5.0,2436.49,12182.45,Credit Card
+1269,10/27/2025,jacket,Apparel,BENGALURU,8.0,3075.72,24605.76,
+1270,08/02/2025,Sneakers,APPAREL,bengaluru,8.0,3876.78,31014.24,Debit Card
+1271,06/15/2025, Cap ,footwear,BENGALURU,1.0,4296.01,"₹4,296.01",Debit Card
+1272,2025.12.16,Jacket,Apparel,,1.0,3099.09,3099.09,UPI
+1273,2025.05.11,sneakers,apparel,dharwad ,9.0,3148.42,28335.78,
+1274,2025.04.23,cap,APPAREL,bengaluru,2.0,669.96,1339.92,Credit Card
+1275,2025.07.03,jacket,footwear,bengaluru,2.0,4272.93,8545.86,UPI
+1276,20/07/2025,Cap,Footwear,bengaluru,7.0,555.47,3888.29,UPI
+1277,26-04-2025,jacket,footwear,BENGALURU,1.0,3490.59,3490.59,
+1278,07/17/2025,Sneakers,Apparel, Pune,7.0,3838.84,"₹26,871.88",
+1279,02-02-2025,jacket,Apparel,dharwad ,10.0,3571.86,35718.6,UPI
+1280,29/12/2025,Sneakers,footwear,Mumbai,3.0,2145.38,"₹6,436.14",Debit Card
+1281,2025.03.24,JACKET ,APPAREL,BENGALURU,8.0,3728.18,29825.44,Debit Card
+1282,08/24/2025,Sneakers,Apparel,Pune,7.0,3656.24,25593.68,UPI
+1283,2025.06.03,Jacket, Footwear,BENGALURU,5.0,3844.76,19223.8,Debit Card
+1284,20-03-2025,Jeans,apparel,dharwad ,6.0,1417.28,8503.68,
+1285,2025.05.04,Sneaker, Footwear,mumbai,4.0,2256.96,9027.84,Debit Card
+1286,27-02-2025,t-shirt , Footwear, Pune,2.0,1818.39,3636.78,Debit Card
+1287,21/12/2025,JEANS,footwear,dharwad ,2.0,,7603.96,UPI
+1288,2025.03.03, Cap ,Apparel,mumbai,3.0,1597.36,4792.08,Cash
+1289,06/01/2025,Jacket,footwear,dharwad ,5.0,3800.45,19002.25,Cash
+1290,2025.01.24,Jacket,apparel,Mumbai,1.0,4524.21,4524.21,Credit Card
+1291,14/03/2025,Sneakers,footwear,Dharwad,8.0,960.56,7684.48,Credit Card
+1292,2025.11.21,jacket,Footwear,dharwad ,5.0,4794.99,23974.95,Credit Card
+1293,11/03/2025,Cap,Footwear,mumbai,7.0,3531.5,24720.5,Cash
+1294,11/06/2025,cap,apparel,bengaluru,-1.0,3693.31,-3693.31,Credit Card
+1295,01/21/2025, Cap ,APPAREL,bengaluru,-9.0,,-37254.51,Credit Card
+1296,2025.07.29, Jeans,APPAREL,bengaluru,1.0,622.95,622.95,
+1297,2025.10.03,T Shirt,Footwear,Bengaluru,9.0,2981.0,26829.0,
+1298,2025.02.10,Cap,APPAREL,BENGALURU,4.0,3445.46,13781.84,
+1299,12/23/2025,JEANS,apparel,Dharwad,10.0,4072.14,40721.4,UPI
+1300,12/22/2025,JEANS,apparel,bengaluru,9.0,2157.0,19413.0,Cash
+1301,02-11-2025,Jacket,footwear, Pune,2.0,4419.8,8839.6,Credit Card
+1302,02/05/2025,sneakers, Footwear,Mumbai,6.0,677.71,4066.26,Credit Card
+1303,04/11/2025,JEANS, Footwear,BENGALURU,9.0,1491.75,13425.75,Credit Card
+1304,21/09/2025, Jeans,footwear,Pune,1.0,4267.44,"₹4,267.44",UPI
+1305,01/25/2025,Sneaker,apparel,dharwad ,7.0,3821.54,26750.78,Credit Card
+1306,01/26/2025,Jacket,apparel,Bengaluru,8.0,4136.96,33095.68,UPI
+1307,02/15/2025,jacket,APPAREL,Dharwad,8.0,380.04,3040.32,Debit Card
+1308,2025.10.24,T-Shirt,footwear, Pune,6.0,4850.67,29104.02,
+1309,2025.08.16, Jeans,APPAREL,BENGALURU,10.0,2631.07,26310.7,Credit Card
+1310,06/20/2025,JACKET , Footwear,dharwad ,2.0,2928.82,5857.64,UPI
+1311,2025.04.24,Sneaker,Footwear,Bengaluru,5.0,3131.32,15656.6,Cash
+1312,02/02/2025, Jeans,Footwear, Pune,9.0,2918.81,26269.29,
+1313,10/08/2025,T Shirt,footwear,Dharwad,10.0,4509.09,45090.9,
+1314,10-05-2025,Sneaker,apparel,bengaluru,5.0,2669.0,13345.0,Debit Card
+1315,09-06-2025,Jacket,footwear,Bengaluru,6.0,3684.47,22106.82,Credit Card
+1316,13-08-2025,Sneakers,footwear,Dharwad,1.0,3611.07,"₹3,611.07",Credit Card
+1317,04/08/2025,sneakers,Footwear, Pune,9.0,1703.55,15331.95,
+1318,16/01/2025,JACKET ,Apparel,dharwad ,8.0,2183.89,"₹17,471.12",Cash
+1319,06/30/2025,JEANS, Footwear,dharwad ,9.0,2470.65,22235.85,Debit Card
+1320,14/08/2025,Sneaker, Footwear,Pune,7.0,1880.84,13165.88,Cash
+1321,26-05-2025,Cap,Apparel, Pune,9.0,3606.7,"₹32,460.30",
+1322,10-04-2025,Jacket, Footwear,Dharwad,4.0,1027.24,4108.96,
+1323,01/18/2025,T-Shirt,footwear,Bengaluru,3.0,618.42,1855.26,
+1324,05/15/2025,Cap,Footwear, Pune,9.0,3411.47,30703.23,Cash
+1325,30-05-2025,jacket,APPAREL,Pune,3.0,1345.64,"₹4,036.92",
+1326,04/08/2025,T Shirt,APPAREL,bengaluru,2.0,2115.85,4231.7,
+1327,07/08/2025,T Shirt,Footwear,,2.0,2465.68,4931.36,Debit Card
+1328,2025.03.26,tshirt,Apparel,mumbai,3.0,1352.95,"₹4,058.85",
+1329,04-06-2025,t-shirt ,Footwear,Dharwad,7.0,929.24,6504.68,Credit Card
+1330,12/06/2025,T Shirt,Footwear,Mumbai,1.0,3328.5,3328.5,Cash
+1331,11/17/2025,Jacket,footwear,BENGALURU,7.0,2048.86,14342.02,
+1332,2025.09.19,, Footwear,Dharwad,8.0,4120.94,32967.52,Debit Card
+1333,2025.06.18,T-Shirt,APPAREL,bengaluru,5.0,3643.88,18219.4,Credit Card
+1334,08/06/2025,Jacket,APPAREL,BENGALURU,10.0,,"₹37,828.90",UPI
+1335,2025.02.10, Cap ,footwear,dharwad ,2.0,1068.7,2137.4,Debit Card
+1336,12-12-2025,T Shirt,Apparel,Mumbai,9.0,629.82,5668.38,
+1337,10/22/2025,jacket,footwear,BENGALURU,9.0,2009.17,"₹18,082.53",
+1338,10/02/2025,Jeans,footwear, Pune,10.0,3526.07,35260.7,Cash
+1339,09/30/2025,t-shirt ,APPAREL,dharwad ,10.0,1811.67,18116.7,Cash
+1340,09/06/2025,t-shirt ,APPAREL,Mumbai,5.0,2266.26,N/A,
+1341,13/05/2025,t-shirt ,APPAREL,Mumbai,10.0,4523.21,45232.1,Credit Card
+1342,2025.03.12,T-Shirt,APPAREL,dharwad ,5.0,455.81,2279.05,UPI
+1343,25-03-2025,T-Shirt,footwear, Pune,2.0,752.85,1505.7,
+1344,22/07/2025,Sneakers,Footwear,,1.0,4757.8,4757.8,Credit Card
+1345,28/03/2025,JEANS,Apparel,BENGALURU,5.0,1948.81,9744.05,Credit Card
+1346,10/08/2025,T Shirt,Footwear, Pune,9.0,1163.18,"₹10,468.62",
+1347,05/05/2025, Jeans,Footwear,Pune,7.0,641.97,"₹4,493.79",Debit Card
+1348,19-11-2025,Cap,Footwear,Dharwad,7.0,1066.71,7466.97,Cash
+1349,09-02-2025,T-Shirt,apparel,Mumbai,6.0,621.51,N/A,Credit Card
+1350,09/05/2025,t-shirt ,Apparel, Pune,3.0,3718.29,11154.87,UPI
+1351,08/27/2025,cap,APPAREL,dharwad ,7.0,3376.5,23635.5,UPI
+1352,2025.05.22, Cap ,Apparel,dharwad ,4.0,4322.89,17291.56,Credit Card
+1353,25/05/2025,JEANS,footwear,Mumbai,3.0,4946.54,14839.62,UPI
+1354,09/22/2025,JACKET , Footwear,Dharwad,1.0,3377.38,"₹3,377.38",
+1355,12/17/2025,JEANS,Apparel,Bengaluru,1.0,4732.74,4732.74,Debit Card
+1356,05/13/2025,cap,Apparel,bengaluru,3.0,3688.56,11065.68,UPI
+1357,2025.11.01, Cap ,Apparel, Pune,1.0,3940.89,3940.89,Debit Card
+1358,16-09-2025,jacket,footwear,bengaluru,2.0,1567.89,3135.78,Cash
+1359,17-03-2025,JACKET ,Footwear,dharwad ,9.0,3787.66,34088.94,Cash
+1360,06/10/2025,T-Shirt,Apparel,Mumbai,7.0,3263.3,"₹22,843.10",
+1361,05-04-2025,Cap,footwear, Pune,5.0,475.75,2378.75,Debit Card
+1362,09/15/2025,T-Shirt, Footwear,Bengaluru,7.0,879.9,6159.3,Cash
+1363,04-09-2025, Cap ,APPAREL,mumbai,10.0,1701.84,"₹17,018.40",Cash
+1364,20/11/2025, Cap , Footwear,Pune,9.0,3966.45,35698.05,Credit Card
+1365,13/02/2025,JACKET ,apparel,Pune,10.0,4302.05,43020.5,
+1366,10/03/2025,Sneaker,Apparel,Mumbai,7.0,2446.13,17122.91,Debit Card
+1367,21-05-2025,, Footwear,Dharwad,2.0,3735.26,7470.52,Cash
+1368,13/04/2025,,footwear, Pune,6.0,2979.97,17879.82,Debit Card
+1369,18-04-2025,T Shirt,Footwear,Pune,2.0,2856.19,5712.38,Credit Card
+1370,2025.05.28,JACKET , Footwear,bengaluru,1.0,3017.06,"₹3,017.06",
+1371,21-04-2025,cap, Footwear,Dharwad,5.0,3339.43,16697.15,Cash
+1372,03-09-2025,JACKET ,Apparel, Pune,4.0,3481.82,13927.28,Cash
+1373,31-10-2025, Jeans,Apparel,Pune,2.0,4536.56,9073.12,UPI
+1374,08-01-2025,t-shirt , Footwear,,7.0,2498.83,17491.81,
+1375,16/07/2025,T-Shirt,Apparel,Bengaluru,1.0,665.31,665.31,Cash
+1376,03/12/2025,t-shirt ,footwear,mumbai,5.0,1380.56,6902.8,UPI
+1377,03/06/2025, Cap ,footwear,Dharwad,3.0,2306.84,6920.52,Debit Card
+1378,25/06/2025,jacket, Footwear,Pune,4.0,1668.26,6673.04,UPI
+1379,2025.02.11,Jeans, Footwear,bengaluru,10.0,3247.04,"₹32,470.40",
+1380,08/08/2025,JACKET , Footwear, Pune,9.0,711.29,6401.61,Credit Card
+1381,15-11-2025,sneakers,footwear,Dharwad,4.0,,3607.04,Debit Card
+1382,19/09/2025,T-Shirt,footwear,mumbai,-1.0,949.45,-949.45,Credit Card
+1383,27/01/2025,JACKET , Footwear,,5.0,4843.38,24216.9,Cash
+1384,2025.01.24,Jacket,apparel,Mumbai,1.0,4524.21,4524.21,Credit Card
+1385,15-01-2025,Jacket,Apparel,Mumbai,2.0,4347.34,8694.68,UPI
+1386,2025.11.25,Jeans,Footwear,Pune,9.0,433.29,3899.61,
+1387,31/08/2025,tshirt,footwear,dharwad ,1.0,4613.75,4613.75,Credit Card
+1388,24-02-2025,t-shirt ,footwear,Bengaluru,5.0,4729.58,23647.9,Debit Card
+1389,05/26/2025, Jeans, Footwear,Pune,9.0,1841.15,16570.35,Credit Card
+1390,26/02/2025,tshirt, Footwear,Pune,8.0,2377.48,19019.84,Credit Card
+1391,2025.07.11,JACKET , Footwear,Dharwad,2.0,4435.59,"₹8,871.18",Debit Card
+1392,08/02/2025,JACKET ,Apparel,BENGALURU,,1251.75,5007.0,Debit Card
+1393,04/19/2025,JACKET , Footwear,bengaluru,5.0,1977.34,"₹9,886.70",
+1394,11/24/2025,T Shirt, Footwear,mumbai,10.0,3376.71,33767.1,Debit Card
+1395,2025.01.02,Sneakers,Apparel,bengaluru,3.0,1898.18,5694.54,Debit Card
+1396,02/07/2025,jacket,Apparel,mumbai,10.0,693.55,6935.5,Debit Card
+1397,11/07/2025,Jeans,apparel,mumbai,3.0,4192.86,12578.58,Debit Card
+1398,07/04/2025,,footwear,BENGALURU,3.0,2824.68,8474.04,Debit Card
+1399,09/12/2025,Jacket, Footwear,Dharwad,9.0,3897.95,35081.55,Credit Card
+1400,2025.07.08,t-shirt , Footwear,dharwad ,2.0,1412.65,2825.3,UPI
+1401,2025.08.31,tshirt,APPAREL,BENGALURU,6.0,2395.69,14374.14,Cash
+1402,27/09/2025,JEANS,Apparel,bengaluru,6.0,3211.86,19271.16,UPI
+1403,23-08-2025,sneakers,Apparel,Dharwad,8.0,4233.27,33866.16,
+1404,14/05/2025,t-shirt , Footwear,Bengaluru,6.0,2239.91,13439.46,UPI
+1405,2025.04.21,Jeans,APPAREL, Pune,8.0,1246.48,9971.84,Debit Card
+1406,2025.12.06, Cap , Footwear,BENGALURU,6.0,2360.98,14165.88,Cash
+1407,2025.08.09,jacket,Footwear,mumbai,6.0,,23830.44,UPI
+1408,19-05-2025,jacket,Apparel,Mumbai,8.0,1236.44,9891.52,
+1409,02/23/2025, Jeans,APPAREL,mumbai,,4184.17,"₹12,552.51",Debit Card
+1410,11-09-2025,Cap, Footwear,Bengaluru,6.0,4491.43,26948.58,UPI
+1411,2025.06.27, Jeans,Footwear,bengaluru,10.0,4921.96,49219.6,Credit Card
+1412,12/31/2025, Cap ,Footwear,BENGALURU,4.0,1751.29,7005.16,
+1413,05/03/2025,JEANS,Apparel, Pune,1.0,4836.16,4836.16,Debit Card
+1414,06/24/2025,JACKET , Footwear, Pune,7.0,4679.72,32758.04,Credit Card
+1415,2025.04.15,Sneakers,apparel,Bengaluru,7.0,2658.43,18609.01,Cash
+1416,2025.11.09,T-Shirt,APPAREL,Mumbai,2.0,3711.85,7423.7,
+1417,14/07/2025,,Apparel,bengaluru,8.0,4501.53,N/A,UPI
+1418,01-11-2025,JEANS,Footwear,BENGALURU,7.0,4080.72,28565.04,Cash
+1419,30/07/2025,Jacket,APPAREL,Pune,6.0,2948.89,17693.34,UPI
+1420,2025.04.10,Sneakers,apparel,Mumbai,9.0,3450.14,N/A,Cash
+1421,2025.05.02,T-Shirt,footwear,mumbai,9.0,1072.89,9656.01,Credit Card
+1422,03/02/2025,Sneaker,Footwear,Mumbai,5.0,2566.75,12833.75,
+1423,11/30/2025,t-shirt ,Apparel, Pune,10.0,3591.22,35912.2,Credit Card
+1424,04/11/2025,cap,footwear, Pune,10.0,1594.13,15941.3,Debit Card
+1425,2025.04.24,Sneaker,Footwear,Bengaluru,5.0,3131.32,15656.6,Cash
+1426,17-09-2025,Jeans,Apparel,bengaluru,9.0,1275.16,11476.44,Credit Card
+1427,2025.10.05,Sneakers,footwear, Pune,,4343.09,43430.9,
+1428,07/23/2025, Cap ,apparel, Pune,10.0,691.91,"₹6,919.10",Cash
+1429,2025.04.02,jacket,apparel,bengaluru,7.0,2159.1,15113.7,
+1430,2025.05.23,Jeans,APPAREL,mumbai,8.0,1464.82,11718.56,
+1431,2025.07.13,cap,APPAREL, Pune,4.0,4175.78,16703.12,
+1432,2025.12.12, Jeans,footwear,dharwad ,8.0,4209.77,33678.16,Cash
+1433,2025.03.17,T Shirt,footwear,Dharwad,4.0,4766.61,19066.44,Credit Card
+1434,04/22/2025,,Footwear,Pune,7.0,3792.55,26547.85,Cash
+1435,07/25/2025,JEANS, Footwear,mumbai,6.0,3979.04,23874.24,Credit Card
+1436,13-10-2025,t-shirt ,footwear,Mumbai,6.0,643.27,3859.62,Cash
+1437,14-06-2025,T-Shirt,Apparel,mumbai,4.0,4379.15,17516.6,
+1438,25/09/2025,JACKET ,Apparel, Pune,6.0,2636.65,15819.9,
+1439,2025.01.19,t-shirt ,apparel,mumbai,10.0,,17859.4,Debit Card
+1440,23-05-2025,Cap,Footwear,mumbai,5.0,3555.01,"₹17,775.05",UPI
+1441,2025.02.16, Cap ,APPAREL,mumbai,6.0,3804.9,22829.4,UPI
+1442,01/11/2025,sneakers,Apparel,Dharwad,6.0,2731.61,"₹16,389.66",Credit Card
+1443,05-08-2025,Jeans,apparel,BENGALURU,8.0,4029.91,"₹32,239.28",UPI
+1444,28/09/2025, Jeans,apparel,Pune,7.0,3170.0,22190.0,UPI
+1445,03/21/2025,T-Shirt,footwear,Bengaluru,8.0,2000.58,16004.64,
+1446,2025.09.03,tshirt,Footwear,dharwad ,5.0,4731.12,23655.6,Cash
+1447,13-08-2025,Sneakers,footwear,Dharwad,1.0,3611.07,"₹3,611.07",Credit Card
+1448,19-01-2025, Jeans,Apparel, Pune,5.0,4665.39,N/A,UPI
+1449,25-02-2025,Sneaker, Footwear,mumbai,5.0,1374.94,6874.7,
+1450,02/01/2025, Jeans,Footwear,bengaluru,5.0,1234.91,"₹6,174.55",Debit Card
+1451,07/24/2025,jacket,Apparel,dharwad ,2.0,2355.18,4710.36,Credit Card
+1452,2025.11.26,cap,APPAREL,dharwad ,6.0,1366.5,"₹8,199.00",Cash
+1453,03/01/2025,T Shirt,Apparel, Pune,6.0,4092.5,24555.0,Cash
+1454,2025.12.11, Cap ,apparel,bengaluru,7.0,2770.36,19392.52,Credit Card
+1455,05-02-2025,JACKET ,footwear,dharwad ,6.0,2253.14,13518.84,Debit Card
+1456,23/10/2025,JEANS,APPAREL,Bengaluru,3.0,4757.95,14273.85,UPI
+1457,2025.11.28,JACKET ,apparel,dharwad ,1.0,4049.43,4049.43,
+1458,10/10/2025, Cap ,Apparel,Dharwad,,1925.23,1925.23,Debit Card
+1459,2025.10.29,Jeans,apparel,Dharwad,7.0,4033.7,28235.9,Debit Card
+1460,2025.01.22,T-Shirt,apparel,Pune,7.0,506.21,3543.47,
+1461,29-11-2025, Cap ,apparel,BENGALURU,5.0,3790.76,18953.8,Cash
+1462,30-03-2025,sneakers,apparel,,2.0,3487.89,6975.78,
+1463,11/11/2025,jacket, Footwear,Mumbai,1.0,1510.75,1510.75,Cash
+1464,25-03-2025,Sneaker,APPAREL,mumbai,2.0,4404.95,8809.9,Cash
+1465,2025.12.17,Sneakers,Apparel,dharwad ,3.0,4480.24,13440.72,
+1466,2025.06.07,sneakers,apparel,Dharwad,9.0,2489.22,22402.98,Cash
+1467,12/07/2025,JACKET , Footwear,Dharwad,-10.0,3937.44,-39374.4,Credit Card
+1468,02/06/2025,,APPAREL,mumbai,6.0,4417.41,26504.46,Credit Card
+1469,19/08/2025,Jacket, Footwear,Bengaluru,2.0,4520.18,"₹9,040.36",Debit Card
+1470,2025.10.08,tshirt,Footwear, Pune,6.0,3935.21,23611.26,Cash
+1471,01/01/2025,T-Shirt,apparel,Pune,4.0,3128.49,12513.96,
+1472,2025.08.17,sneakers,Apparel,Bengaluru,1.0,1471.84,"₹1,471.84",Credit Card
+1473,17/01/2025,JACKET ,apparel,Mumbai,7.0,3732.37,26126.59,Cash
+1474,2025.08.20, Jeans, Footwear,mumbai,7.0,774.91,5424.37,Cash
+1475,21/08/2025,cap,Apparel,mumbai,4.0,1271.68,5086.72,Debit Card
+1476,01/06/2025,sneakers, Footwear,Pune,5.0,4590.74,22953.7,Debit Card
+1477,04/07/2025,Jeans,Apparel,Mumbai,8.0,4524.9,36199.2,Debit Card
+1478,13-04-2025,Jeans, Footwear, Pune,10.0,1474.02,14740.2,Credit Card
+1479,04/03/2025, Jeans, Footwear,dharwad ,7.0,3944.06,"₹27,608.42",Debit Card
+1480,14-09-2025,T Shirt, Footwear,bengaluru,1.0,3308.51,3308.51,Credit Card
+1481,2025.12.15,Sneaker,APPAREL,Pune,4.0,1304.46,5217.84,Debit Card
+1482,25/06/2025,Sneakers,footwear,dharwad ,5.0,3660.61,18303.05,
+1483,10/12/2025,T-Shirt,apparel,bengaluru,1.0,908.94,908.94,Credit Card
+1484,06/06/2025, Cap ,footwear,Dharwad,4.0,1423.86,5695.44,Cash
+1485,19/02/2025,sneakers,Apparel,bengaluru,8.0,1165.51,"₹9,324.08",Debit Card
+1486,02/06/2025,T Shirt,Footwear,Mumbai,5.0,4310.21,21551.05,Cash
+1487,2025.10.18,Sneaker,apparel,Mumbai,2.0,1226.86,2453.72,Credit Card
+1488,10/29/2025, Cap ,Footwear,Pune,1.0,3720.48,3720.48,Debit Card
+1489,24/04/2025,cap,APPAREL, Pune,5.0,4018.95,"₹20,094.75",UPI
+1490,2025.12.24,T-Shirt,Apparel,Dharwad,1.0,3217.71,"₹3,217.71",Credit Card
+1491,03/07/2025,Sneakers,footwear,BENGALURU,4.0,1159.31,4637.24,
+1492,16-10-2025,Sneaker,Apparel,dharwad ,6.0,351.41,2108.46,
+1493,2025.12.08, Cap ,Footwear,Bengaluru,3.0,1027.62,3082.86,
+1494,21/10/2025,JEANS,footwear,Mumbai,2.0,4491.89,8983.78,Credit Card
+1495,18-09-2025, Cap ,APPAREL,Mumbai,8.0,722.39,5779.12,Debit Card
+1496,2025.07.05,Sneakers,Apparel,Pune,3.0,2418.7,"₹7,256.10",UPI
+1497,2025.07.21,jacket,APPAREL,BENGALURU,,4476.01,"₹44,760.10",Debit Card
+1498,10-05-2025,sneakers,Apparel,Bengaluru,9.0,3847.34,34626.06,UPI
+1499,24-07-2025,jacket, Footwear,BENGALURU,10.0,3429.57,34295.7,Credit Card
+1500,12/10/2025,tshirt, Footwear,bengaluru,4.0,,"₹9,171.12",UPI
+1501,06/22/2025,cap,APPAREL,Dharwad,6.0,2322.9,13937.4,
+1502,02/21/2025, Cap ,APPAREL,bengaluru,1.0,3777.42,3777.42,UPI
+1503,02/12/2025,T Shirt,Apparel,bengaluru,7.0,2508.69,17560.83,UPI
+1504,2025.04.05,cap,footwear,Bengaluru,6.0,619.95,3719.7,Cash
+1505,04/16/2025,T Shirt, Footwear,Pune,3.0,1647.33,4941.99,Debit Card
+1506,23-11-2025,Jeans,Footwear, Pune,7.0,598.82,4191.74,Credit Card
+1507,02/09/2025,Sneaker,apparel,BENGALURU,7.0,4362.76,30539.32,
+1508,2025.04.08,jacket, Footwear,Bengaluru,9.0,2009.32,18083.88,Cash
+1509,29/05/2025,,APPAREL,dharwad ,,2220.67,17765.36,Debit Card
+1510,14-10-2025,T-Shirt,APPAREL,Pune,2.0,2662.33,5324.66,Debit Card
+1511,06/07/2025,JEANS,Footwear,BENGALURU,9.0,2625.36,23628.24,Credit Card
+1512,2025.02.22,Jeans,Apparel,Mumbai,9.0,311.58,2804.22,Cash
+1513,2025.06.21,,Footwear,bengaluru,5.0,984.89,4924.45,Cash
+1514,27/01/2025,T-Shirt,APPAREL,Dharwad,5.0,4822.91,24114.55,Debit Card
